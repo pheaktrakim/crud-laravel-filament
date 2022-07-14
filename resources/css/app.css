@@ -1,0 +1,9 @@
+.btn{
+  padding: 10px;
+}
+.btn-danger{
+  color: red;
+}
+body{
+  background: red !important;
+}
